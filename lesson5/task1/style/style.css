@@ -10,9 +10,13 @@ ul {
     list-style: none;
 }
 
-.wrapper{
+.wrapper {
+    position: absolute;
     width: 800px;
     margin: 0 auto;
+
+    z-index: -2;
+    height: 1000px;
 }
 
 .roboto {
@@ -23,9 +27,116 @@ ul {
     font-family: 'Roboto Condensed';
 }
 
-.header{
-    background: blue;
+.header {
+    position: relative;
+    z-index: -1;
+
+    background: rgb(78, 78, 92);
     box-shadow: 0px 4px 4px rgba(red, green, rgb(81, 78, 98), alpha);
     border-radius: 0px 0px 40px 40px;
     padding: 55px 240px;
+}
+
+.header__img {
+    display: block;
+    margin: 0 auto;
+}
+
+.menu {
+    position: absolute;
+    z-index: -1;    
+    width: 100%;
+
+    background: #C4C4C4;
+    border-radius: 0px 0px 40px 40px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.menu__list {
+    display: flex;
+    justify-content: center;
+}
+
+.menu__list-item {
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.menu__list-item.last-child {
+    margin-right: 0;
+
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #328525;
+}
+.menu__list-item.hover {
+    margin-right: #000;
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+
+    margin-bottom: 57px;
+}
+
+.article {
+    font-family: 'Courier New', Courier, monospace;
+    background: #555555;
+    border-radius: 40px;
+    padding: 30px 25px;
+    width: 325px;
+}
+
+.article.first-child { 
+    margin-left: 60px;
+}
+
+.article__title {
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #7EE0FF;
+    margin-bottom: 20px;
+}
+
+.article__text {
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #B6F6FF;
+}
+
+.footer {
+    text-align: center;
+
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
 }
