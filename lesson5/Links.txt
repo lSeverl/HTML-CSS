@@ -1,0 +1,8 @@
+https://flexboxfroggy.com/#ru
+https://tproger.ru/translations/how-css-flexbox-works/
+https://developer.mozilla.org/ru/docs/Web/CSS/linear-gradient
+
+template v1 - это то, что мы делали на занятии, там была проблема с z-index'ами, сейчас уже работает, после небольших танцев с бубном (wrapper & header: relative, menu: absolute)
+template v2 - это то, что я делал отдельно, и там немного по другому сделан верхний блок, может кому будет интересно посмотреть (wrapper: relative, header & menu: absolute)
+
+https://github.com/htmlcsscourse/digits_final_project
