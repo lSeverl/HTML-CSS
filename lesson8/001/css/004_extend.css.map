@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,8DAA8D;AAa9D,AAZA,QAYQ,EAIR,QAAQ,EAKR,MAAM,EAKN,QAAQ,CA1BQ;EACZ,MAAM,EAAE,cAAc;EACtB,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,IAAI;CACd;;AAYD,AAAA,QAAQ,CAAC;EAET,YAAY,EAAE,KAAK;CAClB;;AAED,AAAA,MAAM,CAAC;EAEP,YAAY,EAAE,GAAG;CAChB;;AAED,AAAA,QAAQ,CAAC;EAET,YAAY,EAAE,MAAM;CACnB",
+    "sources": [
+        "../../teach/005_saas/004_extend.scss"
+    ],
+    "names": [],
+    "file": "004_extend.css"
+}
