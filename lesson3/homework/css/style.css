@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+ul{
+    list-style: none;
+}
+.header{
+    height: 55px;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-left: 50px;
+
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    vertical-align: center;
+}
+.header__logo{
+    width: 95px;
+    height: 40px;
+    padding-left: 30px;
+    vertical-align: unset;
+}
+.header__menu{
+   vertical-align: unset;
+}
+.header__menu__item{
+    
+}
