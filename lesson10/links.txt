@@ -1,0 +1,43 @@
+Vlad Sydorchuk, [01.12.20 23:36]
+https://www.youtube.com/channel/UCE_w6FxGfRKH2fU76raVeog
+
+Полезные видосики можно найти тут
+
+Vlad Sydorchuk, [01.12.20 23:36]
+Шаблон с 10го урока
+https://github.com/htmlcsscourse/lesson10
+
+Vlad Sydorchuk, [01.12.20 23:36]
+Шпаргалка по emmet
+https://dwstroy.ru/stail/plaginy-rasshireniya/emmet-shpargalka/
+
+Vlad Sydorchuk, [02.12.20 12:35]
+https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
+
+Vlad Sydorchuk, [02.12.20 12:36]
+https://www.w3schools.com/css/css_grid.asp
+
+Vlad Sydorchuk, [02.12.20 12:36]
+https://codepen.io/
+тут можно находить всякие темплейты если надо, то же бургер меню
+
+Vlad Sydorchuk, [02.12.20 12:37]
+Как сделать хост на гите
+https://pages.github.com/
+
+Vlad Sydorchuk, [02.12.20 12:37]
+Тут можно закрепить html&css
+https://www.freecodecamp.org/
+
+Основы Sass + официальная документация
+https://sass-scss.ru/guide/
+
+Документация по Sass на русском языке (https://sass-scss.ru/guide/)
+Основы Sass
+Введение в sass - переменные, вложенности, фрагментирование, импорт, миксины, наследование и операторы
+
+https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+Code Envato Tuts+ (https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+30 CSS селекторов, которые вы должны запомнить
+Итак, вы изучили принцип наследования и основные селекторы: id и class - и думаете, что готовы к бою? Но, поверьте, вы очень многое упустили. Несмотря на то, что многие из описанных в этой статье...
