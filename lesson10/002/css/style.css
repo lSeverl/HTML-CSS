@@ -1,0 +1,18 @@
+*{
+box-sizing: border-box;
+}
+
+.rect1 {
+    color: teal;
+    width: 200px;
+    height: 100px;
+    border-width: 1px;
+
+}
+.rect1 {
+    color: green;
+    width: 200px;
+    height: 100px;
+    border-width: 1px;
+
+}
